@@ -2,6 +2,7 @@
 
 > Memory Game with [Isha's Conscious planet](https://consciousplanet.org/en) initiative logos. 
 > Thanks to Ashwin for image assets.
+>- [Forked from Caian Mem game](https://caian.dev/posts/create-memory-game-with-nextjs/) this project
 
 
 ## Techs
