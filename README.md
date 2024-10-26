@@ -1,9 +1,7 @@
 # Memory
 
-> _Memory Game with emojis_
+> _Memory Game with Isha Conscious planet initiative logos
 
-- The final result can be live-tested at [memory.caian.dev](https://memory.caian.dev)
-- [Post about](https://caian.dev/posts/create-memory-game-with-nextjs/) this project
 
 ## Techs
 
@@ -31,12 +29,9 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser.
+Open [http://localhost:3300](http://localhost:3300) with your browser.
 
-## Testing
-
-All tests can be run and seen using
-
-```sh
-yarn test
-```
+## Out put
+![screenshot](public/screenshots/login.png)
+![screenshot](public/screenshots/game.png)
+![screenshot](public/screenshots/lb.png)
