@@ -1,6 +1,7 @@
 # Memory
 
-> _Memory Game with Isha Conscious planet initiative logos
+> Memory Game with [Isha's Conscious planet](https://consciousplanet.org/en) initiative logos. 
+> Thanks to Ashwin for image assets.
 
 
 ## Techs
